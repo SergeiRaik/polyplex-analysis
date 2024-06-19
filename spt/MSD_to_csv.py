@@ -17,5 +17,5 @@ def convert_excel_to_csv(folder_path):
             df.to_csv(csv_path, index=False)
             print(f"Converted {filename} to {csv_filename}")
 
-folder_path = '22 March 2p5/MSD'
+folder_path = 'positions/2p5_Mar22'
 convert_excel_to_csv(folder_path)

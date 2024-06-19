@@ -28,7 +28,7 @@ def convert_excel_to_csv(folder_path):
             print(f'Converted {file} to {csv_file}')
 
 # Specify the folder path
-folder_path = 'positions'
+folder_path = 'positions/2p5_HA_Mar6'
 
 # Convert all Excel files in the specified folder to CSV
 convert_excel_to_csv(folder_path)
