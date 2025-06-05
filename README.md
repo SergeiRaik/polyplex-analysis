@@ -4,7 +4,8 @@ This repository contains examples of data analysis from experimental pharmaceuti
 
 ## Contents
 
-### `dls/`
+### `dls/`   
+[DLS analysis notebook](https://github.com/SergeiRaik/polyplex-analysis/blob/main/dls/dls_analysis.ipynb)   
 Analysis of polymer–DNA nanocomplexes (polyplexes) using:
 
 - **DLS (Dynamic Light Scattering)**: particle size distribution analysis
