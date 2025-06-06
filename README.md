@@ -18,7 +18,10 @@ Includes data preprocessing, cleaning, and visualization of particles properties
 - Estimation of diffusion parameters
 - Trajectory visualization
 
-### `uv-spectroscopy/`
+### `uv-spectroscopy/`   
+[UV analysis notebook](https://github.com/SergeiRaik/polyplex-analysis/blob/main/uv-spectroscopy/nanodrop.ipynb)   
+[Trajectories visualization notebook](https://github.com/SergeiRaik/polyplex-analysis/blob/main/spt/trajectories%20visualization.ipynb)   
+
 - analysis of DNA binding efficiency
 - analysis of stability of polyplexes in presence of polyanions or vitreous
 
